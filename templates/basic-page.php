@@ -18,5 +18,3 @@ if($page->rootParent->hasChildren > 1) {
 	// make any sidebar text appear after navigation
 	$sidebar .= $page->sidebar; 
 }
-
-//great git test
