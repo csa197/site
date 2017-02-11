@@ -51,3 +51,4 @@ if($q) {
 	$content = "<h2>" . __('Please enter a search term in the search box (upper right corner)') . "</h2>";
 }
 
+//test for branch
